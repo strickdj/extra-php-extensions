@@ -27,5 +27,9 @@
             "name": "Tobias Nyholm",
             "email": "tobias.nyholm@gmail.com"
         }
-    ]
+    ],
+    "require": {
+        "async-aws/sso": "^1.4",
+        "async-aws/sso-oidc": "^1.1"
+    }
 }

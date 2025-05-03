@@ -60,15 +60,17 @@ functions:
 | DS               | `${bref-extra:ds-php-81}`              |
 | Elastic APM      | `${bref-extra:elastic-apm-php-81}`     |
 | Excimer          | `${bref-extra:excimer-php-81}`         |
+| FFI              | `${bref-extra:ffi-php-81}`             |
 | GD               | `${bref-extra:gd-php-81}`              |
 | gnupg            | `${bref-extra:gnupg-php-81}`           |
 | GMP              | `${bref-extra:gmp-php-81}`             |
 | gRPC             | `${bref-extra:grpc-php-81}`            |
-| h3               | `${bref-extra:h3-php-81}`            |
+| h3               | `${bref-extra:h3-php-81}`              |
 | Igbinary         | `${bref-extra:igbinary-php-81}`        |
 | Imagick          | `${bref-extra:imagick-php-81}`         |
 | IMAP             | `${bref-extra:imap-php-81}`            |
 | LDAP             | `${bref-extra:ldap-php-81}`            |
+| libsql           | `${bref-extra:libsql-php-81}`          |
 | Mailparse        | `${bref-extra:mailparse-php-81}`       |
 | MaxMind DB       | `${bref-extra:maxminddb-php-81}`       |
 | Memcache         | `${bref-extra:memcache-php-81}`        |
